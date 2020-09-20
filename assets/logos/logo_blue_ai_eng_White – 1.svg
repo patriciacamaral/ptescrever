@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13473" height="7251" viewBox="0 0 13473 7251">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-logo_blue_ai_eng_White_1);
+      }
+
+      .cls-2 {
+        fill: #6cacf7;
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-logo_blue_ai_eng_White_1">
+      <rect width="13473" height="7251"/>
+    </clipPath>
+  </defs>
+  <g id="logo_blue_ai_eng_White_1" data-name="logo_blue_ai_eng_White – 1" class="cls-1">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(-5296.719 -3251.433) rotate(-17)">
+      <ellipse class="cls-3" cx="8900" cy="6121" rx="8900" ry="6121"/>
+      <ellipse class="cls-4" cx="8900" cy="6121" rx="8899.5" ry="6120.5"/>
+    </g>
+  </g>
+</svg>
